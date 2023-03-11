@@ -12,7 +12,7 @@ html {
 body {
   align-items: center;
   /* background: linear-gradient(320deg, #eb92be, #efff78, #63c9b4); */
-  background-image: url(../Texture_programming_0_1_577641_1920x1080.jpg);
+  background-image: url(./Texture_programming_0_1_577641_1920x1080.jpg);
   background-size: cover;
   display: flex;
   font-family: "Dosis", sans-serif;
